@@ -45,7 +45,6 @@ Fique à vontade para entrar em contato comigo para discutir colaborações ou p
 ### 📈 Estatísticas do GitHub
 
 <details open>
-  <summary><b>Clique para ver meus status detalhados</b></summary>
   <br />
   
   <p align="left">
