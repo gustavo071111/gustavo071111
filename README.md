@@ -44,9 +44,18 @@ Fique à vontade para entrar em contato comigo para discutir colaborações ou p
 
 ### 📊 Estatísticas do GitHub
 
-<p align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=gustavo-xavier-79b62b300&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-xavier-79b62b300&layout=compact&theme=dark" />
-</p>
+<details>
+  <summary><b>Clique para ver meus status detalhados</b></summary>
+  <br />
+  
+  <p align="left">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=GustavoXavierTavares&theme=tokyo-night" width="100%" />
+  </p>
+
+  <p align="left">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=GustavoXavierTavares&show_icons=true&theme=tokyo-night&include_all_commits=true&count_private=true" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoXavierTavares&layout=compact&theme=tokyo-night" />
+  </p>
+</details>
 
 ---
