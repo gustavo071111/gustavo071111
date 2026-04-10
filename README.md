@@ -22,7 +22,7 @@ Sou estudante de Ciência da Computação movido pela curiosidade e pela busca c
 ### 🛠️ Frameworks, Tecnologias e Ecossistemas
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,npm,react,expo,sequelize,mysql,git,github,eclipse,vscode" />
+    <img src="https://skillicons.dev/icons?i=vscode,eclipse,nodejs,mysql,npm,react,sequelize,git,github" />
   </a>
 </p>
 
@@ -42,5 +42,11 @@ Fique à vontade para entrar em contato comigo para discutir colaborações ou p
 
 ---
 
-### 📊 Estatísticas
-![Status do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_NOME_DE_USUARIO&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+### 📊 Estatísticas do GitHub
+
+<p align="left">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=gustavo-xavier-79b62b300&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-xavier-79b62b300&layout=compact&theme=dark" />
+</p>
+
+---
