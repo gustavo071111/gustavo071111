@@ -52,10 +52,6 @@ Fique à vontade para entrar em contato comigo para discutir colaborações ou p
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=gustavo071111&theme=tokyo-night" width="100%" alt="Gráfico de Atividade" />
   </p>
 
-  <p align="left">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=gustavo071111&show_icons=true&theme=tokyo-night&include_all_commits=true&count_private=true" alt="Status Geral" />
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo071111&layout=compact&theme=tokyo-night" alt="Linguagens mais usadas" />
-  </p>
 </details>
 
 ---
