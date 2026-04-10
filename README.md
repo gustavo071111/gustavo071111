@@ -53,7 +53,7 @@ Fique à vontade para entrar em contato comigo para discutir colaborações ou p
   </p>
 
   <p align="left">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=GustavoXavierTavares&show_icons=true&theme=tokyo-night&include_all_commits=true&count_private=true" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=gustavo071111&show_icons=true&theme=tokyo-night&include_all_commits=true&count_private=true" />
     <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoXavierTavares&layout=compact&theme=tokyo-night" />
   </p>
 </details>
