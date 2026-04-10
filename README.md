@@ -22,7 +22,7 @@ Sou estudante de Ciência da Computação movido pela curiosidade e pela busca c
 ### 🛠️ Frameworks, Tecnologias e Ecossistemas
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,npm,mysql,git,github,eclipse,vscode,react,expo,sequelize" />
+    <img src="https://skillicons.dev/icons?i=nodejs,npm,react,expo,sequelize,mysql,git,github,eclipse,vscode" />
   </a>
 </p>
 
