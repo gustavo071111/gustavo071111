@@ -13,7 +13,7 @@ Sou estudante de Ciência da Computação movido pela curiosidade e pela busca c
 ### 🚀 Linguagens e Tecnologias
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,ts,python,cpp,cs" />
+    <img src="https://skillicons.dev/icons?i=c,java,js,python,node,sql,git,github" />
   </a>
 </p>
 
@@ -30,10 +30,10 @@ Fique à vontade para entrar em contato comigo para discutir colaborações ou p
 
 <p align="left">
   <a href="https://www.linkedin.com/in/gustavo-xavier-79b62b300/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a> 
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
   <a href="mailto:gustavoxaviertavares123@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
 
