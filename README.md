@@ -10,7 +10,7 @@ Sou estudante de Ciência da Computação movido pela curiosidade e pela busca c
 
 ---
 
-### 🚀 Linguagens de Programação
+### 🖥️ Linguagens de Programação
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,java,js,python" />
@@ -19,7 +19,7 @@ Sou estudante de Ciência da Computação movido pela curiosidade e pela busca c
 
 ---
 
-### 🛠️ Frameworks, Tecnologias e Ecossistemas
+### ⚙️ Frameworks, Tecnologias e Ecossistemas
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,eclipse,nodejs,mysql,npm,react,sequelize,git,github" />
@@ -28,21 +28,21 @@ Sou estudante de Ciência da Computação movido pela curiosidade e pela busca c
 
 ---
 
-### 📫 Contato
+### 🤝 Vamos nos conectar?
 Fique à vontade para entrar em contato comigo para discutir colaborações ou projetos!
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/gustavo-xavier-79b62b300/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
   <a href="mailto:gustavoxaviertavares123@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+   <a href="https://www.linkedin.com/in/gustavo-xavier-79b62b300/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📈 Estatísticas do GitHub
 
 <details open>
   <summary><b>Clique para ver meus status detalhados</b></summary>
