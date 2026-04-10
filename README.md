@@ -12,7 +12,9 @@ Sou estudante de Ciência da Computação movido pela curiosidade e pela busca c
 
 ### 🚀 Linguagens e Tecnologias
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,nodejs,ts,js,mysql,git,github,vscode,node" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,js,ts,python,cpp,cs" />
+  </a>
 </p>
 
 ---
@@ -20,7 +22,6 @@ Sou estudante de Ciência da Computação movido pela curiosidade e pela busca c
 ### 🛠️ Frameworks e Ferramentas
 - **Backend:** Node.js, Sequelize, Drizzle ORM.
 - **Mobile:** React Native & Expo.
-- **Outros:** AutoCAD, Métrica Topo.
 
 ---
 
@@ -28,8 +29,12 @@ Sou estudante de Ciência da Computação movido pela curiosidade e pela busca c
 Fique à vontade para entrar em contato comigo para discutir colaborações ou projetos!
 
 <p align="left">
-<a href="COLE_O_LINK_DO_SEU_LINKEDIN_AQUI" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-<a href="mailto:SEU_EMAIL@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/gustavo-xavier-79b62b300/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a> 
+  <a href="mailto:gustavoxaviertavares123@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
 
 ---
