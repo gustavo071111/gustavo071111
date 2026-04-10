@@ -12,7 +12,7 @@ Sou estudante de Ciência da Computação movido pela curiosidade e pela busca c
 
 ### 🚀 Linguagens e Tecnologias
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,nodejs,ts,js,mysql,sqlite,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=java,nodejs,ts,js,mysql,git,github,vscode,node" />
 </p>
 
 ---
