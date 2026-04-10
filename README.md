@@ -10,18 +10,21 @@ Sou estudante de Ciência da Computação movido pela curiosidade e pela busca c
 
 ---
 
-### 🚀 Linguagens e Tecnologias
+### 🚀 Linguagens de Programação
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=eclipse,vscode,c,java,js,python,nodejs,mysql,git,github,npm" />
+    <img src="https://skillicons.dev/icons?i=c,java,js,python" />
   </a>
 </p>
 
 ---
 
-### 🛠️ Frameworks e Ferramentas
-- **Backend:** Node.js, Sequelize, Drizzle ORM.
-- **Mobile:** React Native & Expo.
+### 🛠️ Frameworks, Tecnologias e Ecossistemas
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,npm,mysql,git,github,eclipse,vscode,react,expo,sequelize" />
+  </a>
+</p>
 
 ---
 
